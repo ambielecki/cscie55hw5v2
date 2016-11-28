@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bielecki_Andrew_hw5">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bielecki_Andrew_hw5</output-path>
+    <root id="archive" name="Bielecki_Andrew_hw5.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+    </root>
+  </artifact>
+</component>
